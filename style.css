@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+p{
+    font-size: 40px;
+    font-family: cursive;
+}
+#boat{
+    width:300px;
+    height:300px;
+    padding: 5px;
+    border-style: solid;
+    color: blue;
+}
